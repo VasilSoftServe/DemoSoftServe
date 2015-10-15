@@ -1,0 +1,6 @@
+package main.task;
+
+public interface IInterface {
+	public void Runnable();
+	static void Data();
+}

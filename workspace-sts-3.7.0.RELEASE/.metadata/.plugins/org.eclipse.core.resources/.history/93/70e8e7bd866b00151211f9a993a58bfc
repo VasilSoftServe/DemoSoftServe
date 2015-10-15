@@ -1,0 +1,21 @@
+package main.task;
+
+public class Task5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	class A {
+		int input =0;
+		
+		public A(int input) {
+			this.input = input;
+		}
+		Object[] arr = {};
+		
+		A a = new A()
+	}
+
+}

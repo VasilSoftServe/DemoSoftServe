@@ -1,0 +1,12 @@
+package main.task;
+
+public class A {
+
+	public class B{
+		
+	}
+	
+	public class C{
+		A.B b = new A.B();
+	}
+}

@@ -1,0 +1,16 @@
+package main.task;
+
+public abstract class AbstractClass implements IInterface {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	IInterface i = new IInterface() {		
+		@Override
+		public void Runnable() {
+			// TODO Auto-generated method stub
+			
+		}
+}

@@ -1,0 +1,29 @@
+package main.task;
+
+public class Task5 {
+
+	public static void main(String[] args) {
+		A a = new A();
+		
+
+	}
+
+	class A {
+		int input =0;
+		
+		public A(int input) {
+			this.input = input;
+		}
+		A a =new A(2);
+		A b = new A(3);
+		A c = new A(4);
+		A d = new A(5);
+		A e = new A(6);
+		
+		Object[] arr = {a,b,c,d,e};
+		
+		
+				
+	}
+
+}

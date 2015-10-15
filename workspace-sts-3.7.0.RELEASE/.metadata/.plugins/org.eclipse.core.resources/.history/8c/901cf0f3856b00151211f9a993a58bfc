@@ -1,0 +1,14 @@
+package main.task;
+
+public class Task4 {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	class A10 {
+		 int a;
+		 void setA(int a) { ... }
+		}
+
+}

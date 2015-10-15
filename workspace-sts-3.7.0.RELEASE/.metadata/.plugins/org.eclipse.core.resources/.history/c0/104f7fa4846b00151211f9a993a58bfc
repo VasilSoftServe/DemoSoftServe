@@ -1,0 +1,34 @@
+package main.task;
+
+public class Task {
+
+	public static void main(String[] args) {
+		double a = 5;
+		double b = 6;
+		double min;
+		
+		 min = Math.min(a, b);
+		System.out.println(min);
+		
+	}
+
+}
+
+
+
+class A11{
+    A11(int a) {
+
+    }
+} // class A11 has only one constructor
+
+class B11 extends A11{
+    B11() { 
+    	super(0);
+    	System.out.println("run"); }
+}
+
+
+public LessValue(){
+	
+}

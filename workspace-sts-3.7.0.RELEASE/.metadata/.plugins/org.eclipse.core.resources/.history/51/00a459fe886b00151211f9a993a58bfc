@@ -1,0 +1,52 @@
+package main.task;
+
+import java.util.Scanner;
+
+public class Task5 {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+	class A {
+		int input =0;		
+		
+		public A(int input) {
+			this.input = input;
+		}
+		A a =new A(2);
+		A b = new A(3);
+		A c = new A(4);
+		A d = new A(5);
+		A e = new A(6);
+		
+		Object[] arr = {a,b,c,d,e};
+		
+				
+	}
+	
+	class Task7{
+		Scanner input =new Scanner(System.in);
+		int mark = input.nextInt();
+		
+			public  int markValue(int mark){
+				if(mark<6){
+					System.out.println( "unsatisfactorily");
+				}else if(mark<=8 && mark>6){
+					System.out.println("satisfactorily");
+				}else if(mark<=10 && mark>8){
+					System.out.println("good");
+				}
+				
+				return mark;
+			}
+	
+		
+	}
+	
+	
+	
+
+}
